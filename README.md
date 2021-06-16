@@ -8,5 +8,5 @@ The security testing is performed using **Karate**, validating various status er
 
 How to run -
 
-- Run go script - go run src/main/go/loginlogout.go
+- Run go script - go run src/main/go/loginlogout.go (http://localhost:8000/)
 - Run Karate Test - mvn test -Dtest=KarateTestRunner
